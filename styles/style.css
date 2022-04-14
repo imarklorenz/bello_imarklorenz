@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #064663;
+    font-family: 'Inconsolata', monospace;
+    height: 3000px;
+}
